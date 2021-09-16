@@ -1,0 +1,25 @@
+.wrapper {
+margin: auto;
+    width: auto;
+    height:auto ;
+
+    align-content: center;
+    display: flex;
+
+}
+
+
+.result {
+    width: auto;
+    margin-left: 10px;
+
+
+    }
+
+.find {
+    width: 300px;
+}
+input {
+    width: 98%;
+    padding: 1%;
+}
